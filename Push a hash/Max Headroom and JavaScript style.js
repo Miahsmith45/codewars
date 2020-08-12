@@ -5,10 +5,10 @@ function getMax1() {
 }
 
 function getMax2() {
-    return { name: 'Max Headroom' } {
+    return { name: 'Max Headroom' }
 
-    }
 }
+
 
 function getMax1() {
     var max = { name: 'Max Headroom' }
