@@ -1,4 +1,4 @@
 function name(params) {
-    return 'woods'.length
+    return 'foods'.length
 }
 console.log(name())
